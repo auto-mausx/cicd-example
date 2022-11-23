@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn What CI/CD is
+          Learn What CICD is
         </a>
       </header>
     </div>

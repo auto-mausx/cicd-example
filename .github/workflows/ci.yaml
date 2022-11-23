@@ -20,7 +20,7 @@ jobs:
         npm install
     - name: npm test
       run: |
-        npm test --watchAll=false
+        npm test -- --watchAll=false
 
     - name: npm build
       run: |
